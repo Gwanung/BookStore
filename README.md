@@ -29,7 +29,7 @@ Spring - 5.2.7
   <br> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Git Kraken-#179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+  <img src="https://img.shields.io/badge/Git Kraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 </div>
 
 ## 🔧 개발 기간
