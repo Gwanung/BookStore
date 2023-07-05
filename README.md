@@ -8,9 +8,9 @@
 - [배포 링크](http://15.164.199.51:8080/BookStore/mainHome)
 
 ## 개발 버전 
-Java - 11.0.15
-Oracle - 11g Express Edition
-Spring - 5.2.7 
+- Java - 11.0.15
+- Oracle - 11g Express Edition
+- Spring - 5.2.7 
 
 ##  사용 기술 및 환경  
 <!-- <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white"> -->
@@ -28,8 +28,9 @@ Spring - 5.2.7
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <br> 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Git Kraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white">
 </div>
@@ -49,6 +50,8 @@ Spring - 5.2.7
 - 아이디 중복체크 및 유효성 검사 
 - 주소 api를 통한 배송지 정보 등록
 
+
+
 로그인 
 - 아이디, 비밀번호 일치여부 확인
 - 회원가입 링크 연결
@@ -63,6 +66,8 @@ Spring - 5.2.7
 - 전체 도서 페이징 처리
 - 할인율 및 평점 높은 순 리스트 
 - 도서 개수 차감 및 품절 처리 
+
+<img src="https://github.com/Gwanung/BookStore/assets/100282696/a810a974-2c79-4272-af53-7a40bd405c7e">
 
 도서 상세페이지
 - 장바구니 등록
