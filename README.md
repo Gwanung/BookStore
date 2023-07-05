@@ -87,12 +87,12 @@
 - 메뉴바의 카테고리를 클릭하면 4개의 카테고리에 해당하는 도서 리스트를 볼 수 있습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/6b8ad3b2-91a8-4453-8fcd-4622d7feca65">
 
-상세페이지 
+2. 상세페이지 
 - 해당 상품의 상세정보(할인,가격,적립포인트 등)를 확인할 수 있고 장바구니에 등록 할 수 있습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/29357ff9-9f3f-4508-ad56-50bc8d99e488">
 
 
-2. 회원가입 및 로그인
+3. 회원가입 및 로그인
 - 주소api를 사용하여 도서 구매 시 배송되는 주소를 입력할 수 있도록 하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/a55e67ba-ccf2-49b6-9223-e8766da3dc5f">
 
@@ -103,18 +103,18 @@
 - 로그인 시 DB에 저장된 아이디와 비밀번호의 일치여부를 검사 후 로그인 할 수 있도록 하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/38c3a554-9e33-438c-9ba7-4f6b2a1550d5">
 
-3. 메뉴바 
+4. 메뉴바 
 - 비로그인과 로그인 시 메뉴바 정보를 변경하여 사용자가 보다 직관적으로 볼 수 있도록 처리하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/5debb576-7581-48f2-97fb-6c1b4ed9b9b4">
 
 
 
-4. 마이페이지
+5. 마이페이지
 - 회원가입 시 등록된 정보를 확인할 수 있고, 정보수정 시 readonly 속성이 해제되고 주소버튼과 비밀번호 입력란이 활성화 됩니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/f6e875f5-348c-4cc2-af62-b105125f4c67">
 
 
-5. 장바구니
+6. 장바구니
 - 체크박스를 통해 사용자가 원하는 물품을 구매할 수 있고, 수량조절을 통해 원하는 만큼의 수량을 담을 수 있습니다. <br> 이때 수량 증가범위는 도서 개수를 초과하지 않도록 설정하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/8f4447d5-ce2d-4e90-8d6e-4bcc985b0667">
 
