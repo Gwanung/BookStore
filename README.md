@@ -74,14 +74,14 @@
 
 ## 이미지
 
-메인화면
+1. 메인화면
 - 도서 개수를 부여하여 도서를 구매했을 시 개수 차감이 되게 적용하였습니다. <br> 이때 도서 개수가 0개가 되면 해당 도서는 품절처리 됩니다. (구매 및 장바구니 담기 불가)
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/98b02fde-d8ec-4c71-ac3a-db3828b66481">
 
-- 도서 메인화면에 할인이 높은 순과 낮은 순을 리스트로 표현하여 사용자가 보다 쉽게 자신이 원하는 도서를 선택할 수 있도록 하였습니다. <br>
+- 도서 메인화면에 할인이 높은 순과 낮은 순을 리스트로 표현하여 <br> 사용자가 보다 쉽게 자신이 원하는 도서를 선택할 수 있도록 하였습니다. <br>
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/d4801c34-f994-47ce-94cb-d06952eb117a">
 
-- 저자와 제목에 해당하는 내용을 검색 하면 해당 내용에 맞는 도서가 리스트로 출력되고 도서를 클릭하면 상세페이지로 이동합니다. 
+- 저자와 제목에 해당하는 내용을 검색 하면 <br> 해당 내용에 맞는 도서가 리스트로 출력되고 도서를 클릭하면 상세페이지로 이동합니다. 
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/467dc611-ef57-41e3-814b-764482600e1d">
 
 - 메뉴바의 카테고리를 클릭하면 4개의 카테고리에 해당하는 도서 리스트를 볼 수 있습니다.
@@ -92,29 +92,29 @@
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/29357ff9-9f3f-4508-ad56-50bc8d99e488">
 
 
-회원가입 및 로그인
+2. 회원가입 및 로그인
 - 주소api를 사용하여 도서 구매 시 배송되는 주소를 입력할 수 있도록 하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/a55e67ba-ccf2-49b6-9223-e8766da3dc5f">
 
-- 회원가입 시 유효성 검사를 통해 빠짐없이 정보를 기입할 수 있도록 하였고, 비밀번호는 보안위험이 있기때문에 암호화처리 후 DB에 저장하였습니다.
+- 회원가입 시 유효성 검사를 통해 빠짐없이 정보를 기입할 수 있도록 하였고, <br> 비밀번호는 보안위험이 있기때문에 암호화처리 후 DB에 저장하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/6150246a-a9db-44be-b78b-e669d2a539f8">
 
 
 - 로그인 시 DB에 저장된 아이디와 비밀번호의 일치여부를 검사 후 로그인 할 수 있도록 하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/38c3a554-9e33-438c-9ba7-4f6b2a1550d5">
 
-메뉴바 
+3. 메뉴바 
 - 비로그인과 로그인 시 메뉴바 정보를 변경하여 사용자가 보다 직관적으로 볼 수 있도록 처리하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/5debb576-7581-48f2-97fb-6c1b4ed9b9b4">
 
 
 
-마이페이지
+4. 마이페이지
 - 회원가입 시 등록된 정보를 확인할 수 있고, 정보수정 시 readonly 속성이 해제되고 주소버튼과 비밀번호 입력란이 활성화 됩니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/f6e875f5-348c-4cc2-af62-b105125f4c67">
 
 
-장바구니
+5. 장바구니
 - 체크박스를 통해 사용자가 원하는 물품을 구매할 수 있고, 수량조절을 통해 원하는 만큼의 수량을 담을 수 있습니다. <br> 이때 수량 증가범위는 도서 개수를 초과하지 않도록 설정하였습니다.
 <img src="https://github.com/Gwanung/web-programming/assets/100282696/8f4447d5-ce2d-4e90-8d6e-4bcc985b0667">
 
